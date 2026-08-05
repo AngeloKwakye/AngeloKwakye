@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @AngeloKwakye
-- 👀 I’m interested in developing applications
-- 🌱 I’m currently learning Laravel and Vue
-- 💞️ I’m looking to collaborate on projects that make people's lives easier
+- 👀 I’m interested in solving problems
+- 🌱 I’m currently learning RAG systems
+- 💞️ I’m looking to collaborate on awesome projects
 - 📫 How to reach me dangelokwakye@gmail.com
 - 😄 Pronoun: He
-- ⚡ Fun fact: I have never tasted strawberry fruit before 😹
+- ⚡ Fun fact: cats are awesome!
 
 <!---
 AngeloKwakye/AngeloKwakye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
