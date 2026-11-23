@@ -1,6 +1,6 @@
 # Hey, I'm D'Angelo 👋
 
-**Full-stack developer who likes turning messy real-world problems into simple, working software.**
+**Developer who likes turning messy real-world problems into simple, working software.**
 
 ## 🌱 Now
 
